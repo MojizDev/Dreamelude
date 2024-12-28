@@ -1,7 +1,3 @@
-Sure, here's a GitHub description for your platformer game **Dreamelude**:
-
----
-
 # Dreamelude - Platformer Game
 
 **Dreamelude** is a captivating 2D platformer where players journey through surreal dreamscapes to reach a bed and escape the dream world. Each level is filled with challenging obstacles, mind-bending environments, and hidden secrets. As you navigate through this dream, the goal is to find the bed to complete the level, unraveling the mystery of your dream as you go.
@@ -20,8 +16,6 @@ Sure, here's a GitHub description for your platformer game **Dreamelude**:
 ### Built With:
 - Unity
 - C#
-- [Other tools and libraries used]
+- Starter Assets - 3rd Person
 
----
 
-Let me know if you'd like to add or tweak anything!
